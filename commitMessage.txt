@@ -1,0 +1,12 @@
+Summarize the change in less than 50 characters
+-------------------------------------------------- < 50
+
+------------------------------------------------------------------------ < 72
+Explain exactly what was done in this commit with more depth than the
+50 character subject line. Remember to wrap at 72 characters!
+
+- Bullet points can be utilized
+- Make a new bullet for each different reasons
+- Each line should be under 72 characters
+
+Include any additional notes, relevant links, or co-authors.
